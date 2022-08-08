@@ -3,5 +3,5 @@
 >Status do projeto: Em desenvolvimento
 
 ```
-Projeto Barbearia Alura
+Node app.js
 ```
